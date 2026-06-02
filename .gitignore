@@ -1,0 +1,9 @@
+best.pt
+runs/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/
+*.zip
